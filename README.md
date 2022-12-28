@@ -2,7 +2,7 @@
 
 ### Ph.D. Student | Blockchain Interoperability | Distributed Systems | Open-source developer
 
-- 🔭 I’m currently working as a Mentee at Hyperledger Mentorships.
+- 🔭 I’m researching in security and privacy in Interoperability solutions.
 
 - 👯 I’m looking forward to collaborating on blockchain interoperability projects. I am completely open to new challenges 😀.
 
