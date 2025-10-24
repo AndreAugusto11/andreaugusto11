@@ -2,9 +2,11 @@
 
 ### Ph.D. Student | Blockchain Interoperability | Distributed Systems | Open-source developer
 
+- 🌵 Active maintainer of open-source interoperability project [Cacti](https://github.com/hyperledger-cacti/cacti) [+300 forks and +350 stars ⭐️]
+
 - 🔭 I’m researching security and privacy in Interoperability solutions.
 
-- 👯 I’m looking forward to collaborating on blockchain interoperability projects. I am completely open to new challenges: MEV, ZKP, Gateways, Standards, etc...
+- 👯 Open to collaborating on blockchain projects. New challenges are welcome: MEV, ZKP, Standards, etc...
 
 - 💬 Ask me about anything, and I'll be happy to help in whatever way I can 😀.
 
