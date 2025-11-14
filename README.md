@@ -2,7 +2,7 @@
 
 ### Ph.D. Student | Blockchain Interoperability | Distributed Systems | Open-source developer
 
-- 🌵 Active maintainer of open-source interoperability project [Cacti](https://github.com/hyperledger-cacti/cacti) [+300 forks and +350 stars ⭐️]
+- 🌵 **Active maintainer** of open-source interoperability project [Cacti](https://github.com/hyperledger-cacti/cacti) [+300 forks and +370 stars ⭐️]
 
 - 🔭 I’m researching security and privacy in Interoperability solutions.
 
