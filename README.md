@@ -1,6 +1,6 @@
 ## Hi there 👋, I am André from Lisbon, Portugal :portugal:
 
-### Ph.D. Student | Blockchain Interoperability | Distributed Systems | Open-source developer
+### Blockchain Interoperability | Distributed Systems | Open-source developer | Ph.D. Student
 
 - 🌵 **Active maintainer** of open-source interoperability project [Cacti](https://github.com/hyperledger-cacti/cacti) [+300 forks and +370 stars ⭐️]
 
